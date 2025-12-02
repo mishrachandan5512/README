@@ -56,10 +56,30 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 ### GitHub Statistics
 
 <div align="center">
+
+<a href="https://github.com/mishrachandan5512">
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/mishrachandan5512">
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff&langs_count=10&card_width=320" alt="Top Languages" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrachandan5512&theme=radical&hide_border=true&background=0D1117&stroke=25c2a0&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0&sideLabels=25c2a0&dates=c9d1d9" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mishrachandan5512&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -68,15 +88,7 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-### Profile Insights
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrachandan5512&theme=radical&hide_border=true&background=0D1117&stroke=25c2a0&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true&area=true&area_color=25c2a0" alt="Contribution Graph" />
 </div>
 
 ---
@@ -86,6 +98,18 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
   <a href="mailto:mishrachandan5512@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://twitter.com/mishrachandan55">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mishrachandan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mishrachandan5512&label=Profile%20Views&color=25c2a0&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">

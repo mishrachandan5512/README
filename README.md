@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" style="border-radius: 10px;" alt="Cyber Header" />
@@ -148,4 +147,3 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
   <br>
   <sub>Locked and Loaded by <b>Mishra Chandan</b></sub>
 </div>
-```

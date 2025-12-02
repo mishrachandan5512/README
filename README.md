@@ -1,72 +1,84 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mishra+Chandan;Security+Researcher+🕵️‍♂️;Bug+Bounty+Hunter+🐞;Python+Tool+Developer+🐍;Breaker+of+Logic+🔨" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" style="border-radius: 10px;" alt="Cyber Header" />
+
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mishra+Chandan;Security+Researcher+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9E;Breaker+of+Logic+%F0%9F%94%A8;Python+Tool+Developer+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
+
+  <br>
 
   <p>
-    <a href="https://hackerone.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/HackerOne-Ranked-black?style=for-the-badge&logo=hackerone&logoColor=white" />
-    </a>
-    <a href="https://bugcrowd.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/Bugcrowd-Hunter-E65224?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-    </a>
-    <a href="https://app.intigriti.com/profile/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/Intigriti-Researcher-1B3A57?style=for-the-badge&logo=intigriti&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/HackerOne-Ranked-black?style=for-the-badge&logo=hackerone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bugcrowd-Hunter-E65224?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+    <img src="https://img.shields.io/badge/Intigriti-Researcher-1B3A57?style=for-the-badge&logo=intigriti&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Private_Programs-red?style=for-the-badge&logo=target" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 **Identity: <span style="color: #00ff00">Mishra Chandan</span>**
+### 🕵️‍♂️ **About: Mishra Chandan**
 
-> *"I don't just find bugs; I understand the logic behind them. Shadow boxing with code until it breaks."*
+> *"I treat Bug Bounty like Boxing – It's all about timing, precision, and finding that one opening in the defense."*
 
-I am a **Security Researcher** and **Python Developer** specializing in **Web Application Security**. My focus is on automating reconnaissance and finding critical **Business Logic Errors** and **IDORs** that scanners miss.
+I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanners. I manually hunt for **Business Logic Errors**, **IDORs**, and **Race Conditions** that automated tools miss.
 
-* 🔭 I’m currently hunting on **Private Programs**.
-* 🛠️ Building: **Core Scanner** (Advanced Recon Tool).
-* 🎯 Target: Securing the web, one endpoint at a time.
-* ⚡ Fun fact: I treat Bug Bounty like Boxing – It's all about timing and precision.
+* 🔭 **Current Focus:** Cracking Logic Bugs on Private Programs.
+* 🛠️ **Building:** `Core Scanner` (Advanced Recon Tool).
+* 🧠 **Philosophy:** "If it has an endpoint, it has a vulnerability."
+* 🥊 **Fun Fact:** I shadow box to clear my mind before hunting bugs.
 
 ---
 
-### 🛠️ **Arsenal & Skills**
+### 💻 **Tech Stack & Tools**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,burp,md" />
-  <br>
-  <img src="https://img.shields.io/badge/Skill-Reconnaissance-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Skill-IDOR_Specialist-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Skill-Automation-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Skill-Vulnerability_Assessment-orange?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,burp,docker,md,vscode&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Recon-Advanced-ff0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bug_Type-IDOR_%26_Logic-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scripting-Python_%26_Bash-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/OS-Android_(Termux)_%26_Linux-orange?style=flat-square" />
 </div>
 
 ---
 
-### 📊 **Hacker Statistics**
+### 📊 **Github Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrachandan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Mishra's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishrachandan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0" alt="Mishra's Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0" alt="Top Languages" />
 </div>
 
 ---
 
-### 🐍 **Contribution Snake**
+### 👾 **Activity Graph**
 
 <div align="center">
-  <img src="https://github.com/mishrachandan/mishrachandan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Connect-Email-red?style=for-the-badge&logo=gmail" />
+  <h3>📫 Connect with me</h3>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+</div>
+
+<div align="center">
+  <br>
+  <sub>Locked and Loaded by <b>Mishra Chandan</b></sub>
 </div>

@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" style="border-radius: 10px;" alt="Cyber Header" />
@@ -53,26 +54,36 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 
 ---
 
-### GitHub Statistics
+### GitHub Performance Metrics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff&langs_count=8" alt="Top Languages" />
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    SECURITY RESEARCHER STATS                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  👨‍💻 Commits         ║  🎯 Experience    ║  👥 Followers      ║
+║  Middle Committer   ║  Junior Dev       ║  First Friend      ║
+║  [████████░░] 12pt  ║  [██████░░░░] 7pt ║  [██░░░░░░░░] 2pt  ║
+╠══════════════════════════════════════════════════════════════╣
+║  📁 Repositories    ║  ⭐ Stars         ║  🔧 Pull Requests  ║
+║  First Repository   ║  Unknown          ║  Unknown           ║
+║  [██░░░░░░░░] 1pt   ║  [░░░░░░░░░░] 0pt ║  [░░░░░░░░░░] 0pt  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <br>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrachandan5512&theme=radical&hide_border=true&background=0D1117&stroke=25c2a0&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0&sideLabels=25c2a0&dates=c9d1d9" alt="GitHub Streak" />
-</div>
 
-<br>
+**Language Proficiency**
 
-<div align="center">
-  
-| **Commits** | **Experience** | **Followers** | **Repositories** | **Stars** | **Issues** | **Pull Requests** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Middle Committer](https://img.shields.io/badge/Middle_Committer-12pt-orange?style=flat-square) | ![Junior Dev](https://img.shields.io/badge/Junior_Dev-7pt-blue?style=flat-square) | ![First Friend](https://img.shields.io/badge/First_Friend-2pt-green?style=flat-square) | ![First Repository](https://img.shields.io/badge/First_Repository-1pt-yellow?style=flat-square) | ![Unknown](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![Unknown](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![Unknown](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) |
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Proficient-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -82,6 +93,34 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true&area=true&area_color=25c2a0" alt="Contribution Graph" />
+</div>
+
+---
+
+### Current Focus Areas
+
+<div align="center">
+
+| Security Domain | Skill Level | Primary Tools |
+|:---:|:---:|:---:|
+| **Web Application Security** | ![](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) | Burp Suite, Custom Scripts |
+| **Business Logic Testing** | ![](https://img.shields.io/badge/Level-Expert-success?style=flat-square) | Manual Analysis, Python |
+| **API Security** | ![](https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square) | Postman, Custom Tools |
+| **Mobile Security** | ![](https://img.shields.io/badge/Level-Intermediate-yellow?style=flat-square) | Android Studio, ADB |
+
+</div>
+
+---
+
+### Recent Achievements
+
+<div align="center">
+
+🏆 **Middle Committer** - Consistent code contributions  
+🎯 **Junior Developer** - Growing technical expertise  
+👥 **First Friend** - Building community connections  
+📁 **First Repository** - Started open-source journey  
+
 </div>
 
 ---
@@ -109,3 +148,4 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
   <br>
   <sub>Locked and Loaded by <b>Mishra Chandan</b></sub>
 </div>
+```

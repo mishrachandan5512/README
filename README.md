@@ -11,7 +11,7 @@
   <br>
 
   <p>
-    <a href="https://hackerone.com/mishra_chandan5512">
+    <a href="https://hackerone.com/mishrachandan5512">
       <img src="https://img.shields.io/badge/HackerOne-Ranked-black?style=for-the-badge&logo=hackerone&logoColor=white" />
     </a>
     <img src="https://img.shields.io/badge/Bugcrowd-Hunter-E65224?style=for-the-badge&logo=bugcrowd&logoColor=white" />
@@ -53,15 +53,15 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 
 ---
 
-### 📊 **Github Stats & Languages (FIXED)**
+### 📊 **Github Stats & Languages**
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff" alt="GitHub Stats" />
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
@@ -77,7 +77,7 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 
 <div align="center">
   <h3>📫 Connect with me</h3>
-  <a href="mailto: mishrachandan5512@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

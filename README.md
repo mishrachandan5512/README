@@ -57,21 +57,11 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 
 <div align="center">
 
-<a href="https://github.com/mishrachandan5512">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff&count_private=true&include_all_commits=true)
 
-<a href="https://github.com/mishrachandan5512">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff&langs_count=10&card_width=320" alt="Top Languages" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff&langs_count=8)
 
-</div>
-
-<br>
-
-<div align="center">
-  
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrachandan5512&theme=radical&hide_border=true&background=0D1117&stroke=25c2a0&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0&sideLabels=25c2a0&dates=c9d1d9" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=mishrachandan5512&theme=radical&hide_border=true&background=0D1117&stroke=25c2a0&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0&sideLabels=25c2a0&dates=c9d1d9)
 
 </div>
 
@@ -79,7 +69,9 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mishrachandan5512&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+**Commits** | **Experience** | **Followers** | **Repositories** | **Stars** | **Issues** | **Pull Requests**
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+![](https://img.shields.io/badge/Middle_Committer-12pt-orange?style=flat-square) | ![](https://img.shields.io/badge/Junior_Dev-7pt-blue?style=flat-square) | ![](https://img.shields.io/badge/First_Friend-2pt-green?style=flat-square) | ![](https://img.shields.io/badge/First_Repository-1pt-yellow?style=flat-square) | ![](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square)
 
 </div>
 
@@ -88,7 +80,9 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true&area=true&area_color=25c2a0" alt="Contribution Graph" />
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true&area=true&area_color=25c2a0)](https://github.com/mishrachandan5512)
+
 </div>
 
 ---
